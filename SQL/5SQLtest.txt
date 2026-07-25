@@ -7,4 +7,4 @@ North America;
 Europe;
 Japan;
 Other;
-Global Sales
+Global Sales;
