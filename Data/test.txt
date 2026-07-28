@@ -6,6 +6,7 @@
 
 заміну пустих значень на NULL;
 обробку спеціальних символів;
-створення SQL INSERT-формату.
+створення SQL INSERT-формату
+зміни всіх стовпчиків у правильні формати
 
 та ось посилання на таблицю: https://docs.google.com/spreadsheets/d/1kNep7Pn2nSL-TDDpIzU0pMQPR0Ru9Z3xZ2VRk6WsHv8/edit?usp=sharing
